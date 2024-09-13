@@ -37,7 +37,7 @@ _(click the button!)_
 
  
 
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hirthicksofficial@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedriyaz-07) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:smohamedriyaz07@gmail.com)
 
  
 
@@ -51,19 +51,7 @@ _(click the button!)_
 
  
 
-1. **Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters** 
 
-   ➤ [Link to Paper](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-
- 
-
-2. **Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification** 
-
-   ➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
-
- 
-
- 
 
 ### I'm working on Right Now
 
@@ -109,7 +97,7 @@ Researched and developed a robust machine learning model using accelerometer dat
 
  
 
-- 👨‍💻All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
+- 👨‍💻All of my projects are available at [https://github.com/mohamedriyaz-07](https://github.com/mohmaedriyaz-07)
 
  
 
@@ -117,7 +105,7 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 **Check out
 
-✨[`@Hirthick`](https://github.com/Hirthick6)✨**
+✨[`@riyaz'](https://github.com/mohamedriyaz-07)✨**
 
  
 
@@ -125,11 +113,11 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 Projects:
 
-# Startup-Company-Machine-Learning with Streamlit
+# Diabetes with Streamlit
 
  
 
-"Startup-Company-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company is leveraging Streamlit, a Python library for creating web applications, to showcase or deploy machine learning models.
+"Diabetes with Streamlit" likely refers to a project or initiative where a startup company is leveraging Streamlit, a Python library for creating web applications, to showcase or deploy machine learning models.
 
  
 
@@ -143,7 +131,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
  
 
-[Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
+[Startup-Company-Machine-Learning with Streamlit ](https://github.com/mohamedriyaz-07/Startup-Company-Machine-Learning)
 
  
 
@@ -151,7 +139,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
  
 
-#### Mr. Hirthick have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
+#### Mr. Mohamed riyaz have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
 
  
 
@@ -213,13 +201,6 @@ Python 3.9.13
 
 Streamlit
 
-Machine Learning
-
-Pandas
-
-Numpy
-
-Scikit-learn
 
  
 
@@ -244,14 +225,6 @@ $ git clone https://github.com/Hirthick6/Startup-Company-Machine-Learning.git
 $ python3 -m venv env
 
 ```
-
-* Activate the virtual environment
-
- 
-
-```
-
-$ env\Scripts\activate
 
 ```
 
@@ -283,9 +256,13 @@ $ streamlit run main.py
 
 ## Acknowledgements
 
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (smohamedriyaz07@gmail.com)
 
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
+
+
+## Future Enhancement
+
 
  
 
